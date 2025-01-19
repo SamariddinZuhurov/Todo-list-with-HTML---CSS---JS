@@ -19,9 +19,6 @@ Check out the live app here:
 ### Desktop View  
 ![Desktop View](./image.png)
 
-### Mobile View  
-![Mobile View](./photo_2025-01-19_17-09-46.jpg)
-
 ## How to Use
 
 1. Add tasks by typing in the input field and clicking **ADD**.
